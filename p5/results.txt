@@ -1,0 +1,11 @@
+Scores from p5 for Thapa,Bishal Stapleton,Nicholas 
+Addresses used: bthapa@ucdavis.edu,nhstaple@ucdavis.edu, 
+
+vm.cpp: 
+Testing vmtest-1000-6.txt: 
+OK
+Testing vmtest-1000-7.txt: 
+OK
+Testing vmtest-1000-8.txt: 
+OK
+Total score: 10 

@@ -1,0 +1,18 @@
+Scores from p5 for Thapa,Bishal Stapleton,Nicholas 
+Addresses used: bthapa@ucdavis.edu,nhstaple@ucdavis.edu, 
+dmcache.cpp:
+Testing dmtest-8-64-1000-14.txt: 
+OK
+Testing dmtest-8-64-1000-15.txt: 
+OK
+Testing dmtest-8-64-1000-16.txt: 
+OK
+
+sacache.cpp: 
+Testing satest-1000-14.txt: 
+OK
+Testing satest-1000-15.txt: 
+OK
+Testing satest-1000-16.txt: 
+OK
+Total score: 15 + 15 = 30
